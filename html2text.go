@@ -4,7 +4,7 @@
 package html2text
 
 import (
-    "code.google.com/p/go.net/html"
+    "golang.org/x/net/html"
     "log"
     "bytes"
     "io"
